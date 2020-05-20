@@ -7,7 +7,7 @@ thumbnail: "/images/adapter.jpg"
 ---
 One of the biggest problem with modern cheap watches is the button occasional pressing.
 
-Long button pressing on Amazfit Bip S (for example) leads to device reset and course track loose.
+Long button pressing on Amazfit Bip S (for example) leads to device reset and course track loss.
 
 Here is mine &copy; MTBO Watch adapter:
 
