@@ -4,6 +4,7 @@ title:  "MTBO Watch Adapter"
 date:   2020-05-19 11:02:07 +0300
 author: "Vladimir E. Koltunov"
 thumbnail: "/images/adapter.jpg"
+comments: true
 ---
 One of the biggest problem with modern cheap watches is the button occasional pressing.
 
