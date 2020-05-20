@@ -21,7 +21,7 @@
 title: Mountain Bike Orienteering Organization
 email: progrand+mtbo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Saint-Petersburg's Mountain Bike Orieteering Organization.
+  Saint-Petersburg's Mountain Bike Orienteering Organization.
   We are mtb-o, ski-o, foot-o, photo-o, trail-o lovers.
   Training, competitions, bikes, hardware, software.
 baseurl: "" # the subpath of your site, e.g. /blog
