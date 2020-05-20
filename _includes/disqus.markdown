@@ -6,10 +6,10 @@ https://{{ site.disqus.shortname }}.disqus.com/embed.js
 <div id="disqus_thread"></div>
 <script>
 
-var disqus_config = function () {
+/*var disqus_config = function () {
 	this.page.url = '{{ page.url | absolute_url }}';
 	this.page.identifier = '{{ page.url | absolute_url }}';
-};
+};*/
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
 s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
