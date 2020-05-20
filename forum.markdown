@@ -11,5 +11,5 @@ Saint-Petersburg's Mountain Bike Orienteering Organization
 
 General Forum
 
-{% include disqus.markdown %}
+{% include disqus_comments.html %}
 
