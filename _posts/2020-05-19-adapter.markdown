@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "MTBO Watch Adapter"
+date:   2020-05-19 11:02:07 +0300
+author: "Vladimir E. Koltunov"
+thumbnail: "/images/adapter.jpg"
+---
+One of the biggest problem with modern cheap watches is the button occasional pressing.
+
+Long button pressing on Amazfit Bip S (for example) leads to device reset and course track loose.
+
+Here is mine &copy; MTBO Watch adapter:
+
+![Watch Adapter](/images/adapter.jpg)
+

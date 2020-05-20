@@ -33,6 +33,9 @@ github_username:  PROGrand
 theme: minima
 plugins:
   - jekyll-feed
+  
+disqus:
+  shortname: mtbo
 
 # Exclude from processing.
 # The following items will not be processed, by default.
