@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
 
 disqus:
-  siteurl: https://mtbo.org
+  siteurl: "https://mtbo.org"
   shortname: mtbo
 
 # Exclude from processing.
