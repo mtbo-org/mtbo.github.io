@@ -1,5 +1,8 @@
 {% if page.comments %}
 
+{{ page.url | absolute_url }}
+https://{{ site.disqus.shortname }}.disqus.com/embed.js
+
 <div id="disqus_thread"></div>
 <script>
 
