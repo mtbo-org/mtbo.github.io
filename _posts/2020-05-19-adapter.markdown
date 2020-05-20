@@ -12,5 +12,5 @@ Long button pressing on Amazfit Bip S (for example) leads to device reset and co
 
 Here is mine &copy; MTBO Watch adapter:
 
-![Watch Adapter](/images/adapter.jpg)
+<img src="/images/adapter.jpg" style="width: 480px" align="center" />
 
