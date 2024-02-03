@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OpenApi Generator For Flutter (Server + Client)"
-date:   2020-05-19 11:02:07 +0300
+date:   2024-02-03 11:02:07 +0300
 author: "Vladimir E. Koltunov"
 thumbnail: "/images/flutter_mtbo.png"
 comments: true
