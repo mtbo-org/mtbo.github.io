@@ -6,6 +6,6 @@ author: "Vladimir E. Koltunov"
 thumbnail: "/images/flutter_mtbo.png"
 comments: true
 ---
-Here is mine &copy; MTBO port of <a href="/openapi_generator_flutter">openapi_generator_flutter</a>
+Here is mine &copy; MTBO port of <a href="https://mtbo.org/openapi_generator_flutter">openapi_generator_flutter</a>
 
 
